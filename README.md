@@ -1,16 +1,21 @@
-# marketplace_app
+# Marketplace App
+<p align="center">
+  <img src="./page/image.png" width="550" />
+</p>
+ 
+<p align="center">Logo.</p>
 
-A new Flutter project.
+## Installation For Window/VPS
+Running Program
+```bash
+flutter pub get
+flutter run -d chrome --web-port=3000
+```
 
-## Getting Started
+## License
 
-This project is a starting point for a Flutter application.
+This project is under the [Yanzz](https://github.com/Yanzz231)
 
-A few resources to get you started if this is your first Flutter project:
+## Helper 🤖
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Just DM me with instagram [Yanz](https://www.instagram.com/iyanmikasa/)
