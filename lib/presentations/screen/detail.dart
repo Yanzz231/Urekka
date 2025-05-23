@@ -33,7 +33,7 @@ class _DetailPageState extends ConsumerState<DetailPage> {
     const calories = '320 Kal';
     const reviews = '1.7k Reviews';
     const description = '''
-Most Mushroom Pizzas Go For A White Sauce. But nope, not here! I wanted my favorite pizza sauce and a heap of seasonal, delicious veggies. This pizza is layered in sauce (that comes together in seconds), quick sautéed mushrooms, and dollops of creamy mozzarella.
+Perpaduan sempurna antara espresso yang kuat dan susu steamed yang lembut, disempurnakan dengan lapisan busa halus di atasnya. Cappuccino menyajikan keseimbangan rasa yang kaya dan creamy, cocok untuk kamu yang ingin menikmati kopi dengan sentuhan ringan namun tetap berkarakter. Ideal dinikmati di pagi hari atau sebagai teman santai di sore yang tenang.
 ''';
 
     return Scaffold(
